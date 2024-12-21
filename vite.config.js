@@ -6,3 +6,4 @@ export default defineConfig({
   base:"/IHome-React-Project/",
   plugins: [react()],
 })
+ 
